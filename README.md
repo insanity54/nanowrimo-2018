@@ -7,5 +7,5 @@ Codename [Snootleberry Dingleshire](https://nanowrimo.org/participants/percent_m
 
 ## Tools used
 
-[FocusWriter](https://gottcode.org/focuswriter/)
-[pandoc](https://pandoc.org/)
+* [FocusWriter](https://gottcode.org/focuswriter/)
+* [pandoc](https://pandoc.org/)
