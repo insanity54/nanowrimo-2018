@@ -37,7 +37,7 @@ Spare Deltoro
 
 *page 3*
 
-\*\*\*
+***
 
 "Kill him."
 
@@ -64,7 +64,7 @@ Stollyarov.
 
 "All hail Astralnomica!"
 
-\*\*\*
+***
 
 "My fury will abside. Live yet another day, but do not displease me."
 The prince's punishment was stayed.
@@ -89,7 +89,7 @@ The crowd clapped their hands and responded in furvur.
 
 "All hail Astralnomica!"
 
-\*\*\*
+***
 
 ### Abarroth the Foot
 
@@ -178,7 +178,7 @@ Abarroth raised his axe as he closed the gap between he and Markus.
 Nymph oil dripped from a leaky gasket as grunts and the sound of ripping
 flesh was heard.
 
-\*\*\*
+***
 
 ### Blotter Rot
 
