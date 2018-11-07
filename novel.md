@@ -1036,3 +1036,216 @@ on the \'sh\', the unexpected phonemes causing Joey to smile.
 \"Gladly. Shot out!\" Joey pulled the trigger\...
 
 ***
+
+\# This novel is now a Squad guide!
+
+Squad is a multiplayer tactical first person shooter which emphasizes
+realism, teamwork and communication. An average game consists of finding
+a server, joining a squad, and immediately assisting that squad in their
+objectives.
+
+To be successful in said squad, you must coordinate, communicate, and
+conquer. A squad which coordinates attacks, communicates by calling out
+spotted enemy positions, and conquers by applying efficient deadly force
+will vastly outperform a squad who does not.
+
+Microphones are a necessity in Squad, which boasts an accurately
+simulated two way radio network. There are three networks in Squad. One,
+the command net, in which squad leaders can talk with other squad
+leaders. Two, the squad net, in which squads of 9 members can
+communicate with eachother. Finally, local net, in which any team member
+can speak with any nearby team member.
+
+Because of this radio network, squad leaders often have the best idea of
+the current happenings in a battlefield. It is up to squad leaders to
+coordinate their efforts. For example, it would behoove a squad leader
+to communicate to other squad leaders the next action his squad will be
+taking, to prevent multiple squads from pooling resources on a single
+capture point when the state of the capture point only warrants one
+squad's attention.
+
+Squad is not an easy game to play. Squad contains realistic mortar
+cannons, dozens of small arms weapons, armored personnel carriers,
+supply and transport trucks, medic equipment, deployable heavy weaponry
+and defenses to name a few. Each of these game assets could require
+their own special training if one wanted to become proficient in each.
+It's not uncommon for new players to be very poor Squad gamers until
+they have invested dozens of hours into learning the game.
+
+Leading a squad is a meta game of it's own. As a squad leader, you are
+responsible for 8 other gamers, all of which may have an idea of their
+own on how to lead the squad.
+
+\#\#\# Squad Leader Rule \#1. Do not take orders from squadmates.
+
+As squad lead, it is your duty to issue orders. If you take even one
+order from a squad mate, you might as well hand squad leader over to
+that mate. If chain of command breaks down, your squad will spend more
+time on figuring out who's boss than working to win the game. Respect
+the role as Squad leader. Lead or die.
+
+\#\#\# Squad Leader Rule \#2. Do not tolerate insubordination.
+
+If you squad lead long enough, you will find players who dislike your
+leadership style. You will find players who ignore your orders. Although
+there are realistic elements in Squad, this is still a game, and nobody
+is forcing a player to be in your squad.
+
+Players who cause problems for chain of command should be asked to form
+their own squad where they can lead themselves, or be kicked.
+
+\#\#\# Squad Leader Rule \#3. Ask first, order second, kick third.
+
+As squad leader, you will quickly become busy with juggling many tasks
+at once. Creating rally points, ordering troops to attack points,
+calling for supplies, coordinating on command net, etc. You don't have
+time to deal with problem players or be the nicest person you can be.
+This is simulated combat, survival of the simulated fittest.
+
+A new round just started and you need to get a logistics truck and a
+Stryker APC onto a strategic point on the map ASAP. You have 8
+squadmates ready and waiting for your orders.
+
+"I need a stryker crew. Who's got it?", You may ask.
+
+Be prepared to hear crickets as nobody steps up to the plate. If this
+happens, it's time to crack the whip.
+
+"Cowboy\_98 and SH11V, spawn in as crewmember and grab the Stryker.
+Everyone else, I need medics and LATs. Spawn main and jump in either my
+logi or the Stryker. Double time, let's go!"
+
+Now everybody's on the same page, there's no room for arguments on who
+does what, and the game starts smoothly.
+
+Later in the game, you may be tasked with defending a forward operating
+base (FOB.) This can be a boring part of the game, but it's necessary to
+retain controlpoints for your team.
+
+"\|DoS\| Foggy, I need a logi run." A command often delegated to
+squadmates after no volunteers offer their driving services.
+
+"No man, I want to shoot." Says \|DoS\| Foggy.
+
+"This is an order, soldier! This post needs ammo."
+
+"Nah, I'm good."
+
+\|DoS\| Foggy was thinking of themselves, not of the unit. Your squad
+doesn't need that kind of luggage; that's a kick.
+
+\#\#\# Squad Leader Rule \#4. Communicate early, communicate often.
+
+I struggle with this one, but it's an imperative for highly functional
+squad leaders. Communicate with your squad mates. Give spawn and
+objective orders before they have to ask for them. Inform them of
+need-to-know intel from command net.
+
+\#\#\# Squad Leader Rule \#5. Do not give vehicles to lone wolves
+
+You will see this over and over in Squad. Solo players wanting to drive
+a Warrior or 30mm on their own into battle. The problem with this is
+extreme, and I'll break it down.
+
+Armored vehicles are not designed to be operated by one user. Switching
+between driver and gunner seats takes several seconds, which means
+several seconds of time needed to react with deadly force. This time can
+be the difference between life and death in a vehicle team.
+
+Armored vehicles are more likely to be destroyed when operated by one
+user. A standard vehicle team is a minimum of three people\-- driver,
+gunner, spotter. These three work together to eliminate blind spots and
+detect threats, call out bearing and distance, and move quickly.
+
+Armored vehicle loss incurs a hefty death ticket cost. Loss of these
+tickets affects the entire team.
+
+Solo players often communicate poorly. An effective vehicle team should
+provide regular intel to the rest of their their squad regarding spotted
+enemy FOBs, infantry, and other vehicles. Knowing where the enemy is is
+what keeps the squad healthy.
+
+\#\#\# Squad Leader Rule \#6. Treat armor with the utmost respect.
+
+A vehicle can be the lifeforce of the squad. Take a Bradley fighting
+vehicle for example. Should a squad choose to run one, that entire
+squad's existence should revolve around that vehicle. The vehicle gives
+infantry a break from walking long distances. The vehicle resupplies
+ammunition. The vehicle provides cover from small arms. The vehicle's
+weaponry is immensely powerful, and is an indispensable tool for
+providing direct and suppressing fire when accomplishing objectives.
+
+When driving a fighting vehicle in hostile areas, infantry should be on
+foot, offering 360° coverage for a half kilometer around said vehicle.
+It is this teamwork that will keep the Bradley combat effective, safe
+against enemy RPGs, and able to play Uber for the wearied infantryman.
+
+When a fighting vehicle becomes damaged, get the Hell out of dodge. Do
+not stick around to take another round, return to base (RTB)
+immediately. Don't think of that health bar as a health bar. Think of it
+as a buffer against death. That buffer should be pegged at 100% at all
+times.
+
+\#\#\# Squad Leader Rule \#7. Use the map
+
+Map markers are a non-verbal language that spans throughout the entire
+team. With objective markers, your squad-mates know where you want them
+without having to clog squad net. With enemy markers, they know where
+the threats are, and can choose flanking or direct maneuvers when
+approaching. This knowledge is effortlessly transmitted and interpreted
+by other squads on your team.
+
+\#\#\# Squad Leader Rule \#8. Use your optics.
+
+Squad leaders have an often underappreciated tool, binoculars.
+Binoculars can spot enemies from afar that the naked eye cannot. Holding
+'T' to bring up your rose menu and set accurate enemy markers is a huge
+plus. Spot for your team while they push, and call out those targets!
+
+***
+
+\#\# How Squad has changed my life
+
+Squad has possibly been the most beneficial video game I have ever
+played. I have improved my communication skills through Squad, by often
+calling out bearings, distances, and relative terrain features when
+spotting enemies. All these things together make for good callouts,
+which isn't always easy to do when under fire.
+
+I think there is something to say about the ability to think clearly
+when under stress. It's a mind-over-matter type of activity that has AFK
+applications. I'm getting better at it every day and I hope to continue
+this trend.
+
+A few months ago I sat down and thought long and hard about what I
+wanted to do with my life. One of the things I came up with was that I
+wanted to gain the freedom to be myself. This included things like
+representing my beliefs and opinions accurately and honestly, even if
+they were unpopular. Also, dropping F-Bombs when I felt like it. I have
+been hesitant to do these things in the past for fear of offending
+someone.
+
+I value free speech highly, and with the goal of the above, I started
+acting my true self when I played Squad. Squad can be a toxic, vile
+place, with player's pent up hatred occasionally exploding and directed
+at other individuals.
+
+This may be counter-intuitive, but I have improved my self confidence by
+playing Squad. I figured out that people are going to like me or dislike
+me no matter what I do. In other words, I can either be afraid and be
+hated, or I can be confident and hated. I'll be hated or liked by people
+either way. This "law of attraction" is one source of my new found
+confidence.
+
+I've been trolled, berated and belittled while playing Squad. None of it
+matters, since none of them were my friends. I have a circle of friends
+who treat me very well, and those are the relationships which have
+weight in my life. To take offense by something a rando said to me would
+only give that rando power over me.
+
+On the flip side, Squad has gifted me with a handful of friends that I
+never would have found otherwise. Even if I haven't met these people
+away from keyboard, these friendships are real, and I treasure them. I
+would take a real bullet for these friends.
+
+***
